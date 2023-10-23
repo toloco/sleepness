@@ -1,2 +1,5 @@
-# sleepless
-When you require an sleepless session
+Sleepless
+=========
+
+When you require an sleepless session, use **sleepless**.
+
